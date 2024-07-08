@@ -4,23 +4,20 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
-  </a>
+  <a href="https://github.com/NathanGison/WD-SeatWork4-GisonReuel-TC04">
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">SeatWork4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Featuring 2 pages with 2 feature pages as the design
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=NathanGison/WD-SeatWork4-GisonReuel-TC04)
 
 ---
 
@@ -54,11 +51,8 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
 Description of the project in details.
-
+The purpose of this Project is to display feature pages of my chosen website and display the css and html with it the key factors for this website are 2 website that I picked and make a feature pages out of it
 Guiding Question:
 - What is the project
 - Whats the purpose
@@ -66,17 +60,11 @@ Guiding Question:
 - What technology used and how it is used
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
-
+- MultiPage Website
 ### Technology
-<!-- TODO: List of Technology Used -->
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -114,7 +102,10 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Feature Page Netflix | I used this website as my guide or template to make the feature page 2| https://www.netflix.com/ph-en/?gad_source=1&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyRifQrIlxMTzkPZr_S5TLtefjN7HI4bNfxTyBngIBEgGjgIKQze6BoCNpQQAvD_BwE|
+
+|Logo website/images|I used this website for my logos/images to put in my designs|https://www.stickpng.com/|
+
+|Feature Page cdbaby |I used this website as my guide or template to make the feature page 1|https://cdbaby.com/|

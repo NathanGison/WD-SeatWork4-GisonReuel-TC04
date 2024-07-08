@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+.header {
+    position: relative;
+    background-image: url('header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: 40px;
+}
+
+.sign-in-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.header-content h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.header-content p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.email-form {
+    display: inline-block;
+}
+
+.email-form input {
+    padding: 10px;
+    font-size: 1em;
+    border: none;
+    margin-right: 10px;
+}
+
+.get-started-btn {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+section {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.tv-section, .offline-section, .everywhere-section, .kids-section {
+    background-color: #111;
+    margin-bottom: 20px;
+}
+
+.faq-section {
+    background-color: #333;
+    padding: 40px 20px;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+}
+
+.faq-item h3 {
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.faq-answer {
+    display: none;
+    font-size: 1em;
+}
+
+.footer {
+    background-color: #111;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.footer p {
+    margin-bottom: 20px;
+}
